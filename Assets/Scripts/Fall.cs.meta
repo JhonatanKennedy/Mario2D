@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8fab45b9c6189e34f91b29bff366b51d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mario: {instanceID: 0}
+  - DeathSfx: {fileID: 8300000, guid: 27d7a103147d428499103c050463a21f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
